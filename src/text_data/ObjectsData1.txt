@@ -1,0 +1,12 @@
+Character * 1 0 1 1 0 false
+Door | 10 15 1 1 0 false
+Table T 0 4 3 5 0 false
+Flower F 0 2 1 1 0 false
+Chair1 C 4 7 2 1 0 false
+Chair2 C 5 6 1 2 0 false
+Bed B 12 0 4 6 0 false
+Shelf S 11 0 1 1 0 false
+Bookshelf B 0 11 1 4 0 false
+ShoesShelf S 12 15 2 1 0 false
+Closet C 14 7 2 3 0 false
+Key K 2 1 1 1 0 false
